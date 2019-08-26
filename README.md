@@ -3,7 +3,7 @@
 
 ### Kurulum
  0. [Burdan](https://discordapp.com/developers/applications/) bot oluştur.
- 1. Node.js **son** sürümünü yükle.
+ 1. [Node.js](https://nodejs.org/en/download/current/) **son** sürümünü yükle.
  3. Botu indir "clone or download" > download zip
  3. Botu indirdiğin dizinde cmd ile `npm install` kodunu çalıştır.
  4. Config dosyasına token'ini yaz.

@@ -1,0 +1,29 @@
+{
+  "name": "damned-bot",
+  "version": "0.3",
+  "description": "Discord.js tabanlı discord bot şablonu.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaanOzkurt/Damned-Bot.git"
+  },
+  "keywords": [
+    "discord bot",
+    "discord.js"
+  ],
+  "author": "Kaan Özkurt",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/KaanOzkurt/Damned-Bot/issues"
+  },
+  "homepage": "https://github.com/KaanOzkurt/Damned-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ffmpeg-static": "^2.5.0",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^0.29.5"
+  }
+}

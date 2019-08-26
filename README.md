@@ -1,4 +1,4 @@
-![](https://i.hizliresim.com/Orrggz.png)
+![logo](https://i.hizliresim.com/Orrggz.png)
 
 # Damned-Bot
  Discord.js tabanlı discord bot şablonu.

@@ -1,5 +1,6 @@
 node_modules/
 /bot.txt
+/config.json
 
 # Logs
 logs

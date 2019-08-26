@@ -10,3 +10,6 @@
  5. Botu sunucuna davet et, linkteki yere bot client id yaz `https://discordapp.com/oauth2/authorize?client_id=burayabotid&scope=bot`.
  6. Bota admin yetkisi ver.
  7. start.bat ile botu başlat.
+
+### Ayarlama
+ Config dosyasından bazı modülleri açıp kapayabilir, ayarlamaları yapabilirsin.

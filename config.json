@@ -1,6 +1,6 @@
 {
 	"prefix": "!",
-	"token": "tokenburaya",
+	"token": "token",
 	"activityMessage": "!yardım | Cehennemi",
 	"blacklist": true,
 	"blacklistWords": ["salak","aptal","mal","gerizekalı","beyinsiz"]

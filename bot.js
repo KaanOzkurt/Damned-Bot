@@ -96,7 +96,7 @@ client.on('warn', () => {
 	console.warn('[UYARI][BOT]');
 });
 
-process.on('unhandledRejection', error => console.error('Uncaught Promise Rejection'));
+process.on('unhandledRejection', error => console.error('Uncaught Promise Rejection', error));
 
 // login to Discord with app's token
 client.login(token);
